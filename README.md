@@ -3,7 +3,7 @@ bi bol bat orgil 24
 <!DOCYPE html>
 <html>
 <head>
-     <title>haay sainu<title>
+     <title>haay sainu</title>
 </head>
 <body>
      <h1>yag odoo anime uz</h1>
