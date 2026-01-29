@@ -3,7 +3,7 @@ bi bol bat orgil 24
 <!DOCYPE html>
 <html>
 <head>
-     <title>Welcome<title>
+     <title>Bat orgil<title>
 </head>
 <body>
      <h1>yokosoo watashino soul susati<h1>
