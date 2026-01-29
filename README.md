@@ -3,10 +3,10 @@ bi bol bat orgil 24
 <!DOCYPE html>
 <html>
 <head>
-     <title>Bat orgil<title>
+     <title>haay sainu<title>
 </head>
 <body>
-     <h1>yokosoo watashino soul susati<h1>
+     <h1>yag odoo anime uz</h1>
      <p>hi</p>
 </body>
 </html>
